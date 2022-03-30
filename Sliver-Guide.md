@@ -18,9 +18,8 @@
 
   - ### Available Slivers
     - #### [SliverList](topics/1/articles/SliverList)
-      The SliverList is comparable to the ListView.builder widget. The SliverList takes a SliverChildDelegate that is responsible for providing the displayed children. One kind of SliverChildDelegate is the SliverChildBuilderDelegate which is the same as the builder required by the ListView.builder widget. Similar to ListView.builder the SliverList builds its children lazily as they are starting to become visible on the screen.
     - #### [SliverAppBar](topics/1/articles/SliverAppBar)
-      The SliverAppBar share a lot of attributes with the normal AppBar like title, or backGroundColor. But apart from the normal AppBar the SliverAppBar disappears as you scroll and appears again if you scroll back.
+    - #### [SliverGrid](topics/1/articles/SliverGrid)
 
 - ## Example Code:
 
